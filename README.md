@@ -99,7 +99,6 @@ The goal of this Power BI project is to:
 
 ## 🔗 Live File  
 📁 Chhath_Puja_Dashboard.pbix
-Chhath_Puja_Dashboard.pbix
 ---
 
 ## 🙏 Cultural Essence  
