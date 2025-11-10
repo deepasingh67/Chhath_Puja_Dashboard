@@ -98,8 +98,7 @@ The goal of this Power BI project is to:
 ---
 
 ## 🔗 Live File  
-📁 [Chhath_Puja_Dashboard.pbix](#)  
-*(Add your actual GitHub file link here after upload)*  
+📁 Chhath_Puja_Dashboard.pbix
 
 ---
 
