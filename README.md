@@ -118,7 +118,7 @@ Chhath_Puja_Dashboard.pbix
 ### 👩‍💻 Author  
 **Deepa Singh** – Data Analyst  
 🔗 [LinkedIn](https://www.linkedin.com/in/deepa-singh-226163216)  
-📧 deepasingh@example.com  
+📧 deepa95250078@gmail.com  
 
 ---
 
